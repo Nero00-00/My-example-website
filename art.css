@@ -1,0 +1,44 @@
+.box {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    border-radius: 1spx;
+    font-size: 12pt;
+}
+.lower {
+    padding: 22px 20px;
+    height: 24px;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+.webpage3 {
+    background-image: url(img/Anime\ sunset\ street.jpg);
+    background-size: cover;
+    background-repeat: no repeat;
+    height: 180vh;
+}
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+    color: aqua;
+}
+.grid2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(15, 1, 1);
+}
+.mainpage2 {
+    background-image: url(img/Die\ Schichten\ der\ Erde\ Drucken\ -\ Etsy_de.jpg);
+    background-size: cover;
+    background-repeat: no repeat;
+    height: 280vh;
+
+}
+.container {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(14, 15, 15);
+
+}
